@@ -19,3 +19,4 @@ public class TrainConsistApp {
         System.out.println("\nSystem ready for operations...");
     }
 }
+// UC1 Implementation Completed
